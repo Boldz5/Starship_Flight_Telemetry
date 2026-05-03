@@ -1,2 +1,2 @@
 # Starship_Flight_Telemetry
-Starship flight telemetry datasets (booster + ship) with Python tools for cleaning, analysis, and plotting
+Telemetry datasets for multiple SpaceX Starship flights, including IFT‑5, IFT‑11, and future missions. Manually extracted from launch webcast overlays using OCR, these files provide synchronized time, velocity, and altitude data for both booster and ship, ready for use in trajectory visualization, flight dynamics analysis, and educational simulations with NumPy/SciPy/Matplotlib.
